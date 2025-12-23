@@ -92,3 +92,6 @@ Halaman yang sedang aktif akan diberi gaya (warna berbeda) agar mudah dikenali o
 
 Tombol Next akan muncul jika halaman aktif bukan halaman terakhir.
 Tombol ini berfungsi untuk menuju ke halaman berikutnya.
+
+
+# Hasil Akhir Nya
