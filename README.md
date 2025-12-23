@@ -26,7 +26,9 @@ $start = ($hal - 1) * $limit;
 Kode ini digunakan untuk menentukan posisi awal data yang akan diambil dari database (OFFSET).
 Contoh:
 Halaman 1 → (1 - 1) * 5 = 0
+
 Halaman 2 → (2 - 1) * 5 = 5
+
 Halaman 3 → (3 - 1) * 5 = 10
 
 Query Data dengan LIMIT
