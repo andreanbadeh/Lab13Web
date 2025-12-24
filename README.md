@@ -99,4 +99,4 @@ Tombol ini berfungsi untuk menuju ke halaman berikutnya.
 
 Jika Buat Dua Halaman
 
-![gambar](https://github.com/andreanbadeh/Lab13Web/blob/ac271f2b943316bbe4fa7cd7d832118101069603/image/Screenshot%20from%202025-12-23%2019-09-35.png)
+![gambar](https://github.com/andreanbadeh/Lab13Web/blob/6acef4ea1d4207052a44806b0e2ba144906c19a8/image/Screenshot%20from%202025-12-24%2012-01-10.png)
