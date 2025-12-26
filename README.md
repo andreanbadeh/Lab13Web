@@ -97,6 +97,6 @@ Tombol ini berfungsi untuk menuju ke halaman berikutnya.
 # Hasil Akhir Nya
 ![gambar](https://github.com/andreanbadeh/Lab13Web/blob/dfd84b447239f5db483787a298308282d6b0ab0e/image/Screenshot%20from%202025-12-24%2011-59-47.png)
 
-Jika Buat Dua Halaman
+Jika Membuat Dua Halaman
 
 ![gambar](https://github.com/andreanbadeh/Lab13Web/blob/6acef4ea1d4207052a44806b0e2ba144906c19a8/image/Screenshot%20from%202025-12-24%2012-01-10.png)
